@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.2.0
+apiversion: 2
+architectures: armv7 i386 x86_64 arm64
+description: Gigya 
+author: Jeff English
+license: Appcelerator Commercial License
+copyright: Copyright (c) 2010-2014 by Appcelerator, Inc.
+
+
+# these should not be edited
+name: gigya
+moduleid: ti.gigya
+guid: e339acfc-b5be-4ee5-886a-3548524d1eb4
+platform: iphone
+minsdk: 3.4.1.GA
